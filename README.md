@@ -2,8 +2,8 @@
 
 <h3>Web App Projects</h3>
 
-1] <a href="https://github.com/Jostar-Foundation/ZenthCare" target="_blank">ZenthCare: Smart Healthcare Ecosystem</a><br>
-2] <a href="https://github.com/Jostar-Foundation/ByteBrief" target="_blank">ByteBrief: AI news summarized Google Chrome extension</a>
+1] <a href="https://github.com/Jostar-Foundation/ZenthCare" target="_blank"><strong>ZenthCare:</strong> Smart Healthcare Ecosystem</a><br>
+2] <a href="https://github.com/Jostar-Foundation/ByteBrief" target="_blank"><strong>ByteBrief:</strong> AI news summarized Google Chrome extension</a>
 
 
 ---
