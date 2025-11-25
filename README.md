@@ -1,6 +1,6 @@
 <img src="https://github.com/JoshuaThadi/Projects/blob/main/assets/projects.png">
 
-<h1>Full Stack Projects</h1>
+<h3>Full Stack Projects</h3>
 
 <details>
   <summary>projects1 - details</summary>
@@ -11,7 +11,7 @@
 
 ---
 
-<h1>Mobile App Projects</h1>
+<h3>Mobile App Projects</h3>
 
 
 <details>
