@@ -12,7 +12,7 @@
 
 <h3>Mobile Development Projects</h3>
 
-3] <a href="https://github.com/Jostar-Foundation/BookStore" target="_blank"><strong>BookStore -</strong> A book sharing social media app.</a><br>
+0] <a href="https://github.com/Jostar-Foundation/BookStore" target="_blank"><strong>BookStore -</strong> A book sharing social media app.</a><br>
 
 
 ---
