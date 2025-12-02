@@ -6,6 +6,7 @@
 1] <a href="https://github.com/Jostar-Foundation/ZenthCare" target="_blank"><strong>ZenthCare -</strong> Smart Healthcare Ecosystem.</a><br>
 2] <a href="https://github.com/Jostar-Foundation/ByteBrief" target="_blank"><strong>ByteBrief -</strong> AI news summarized Google Chrome extension.</a><br>
 3] <a href="https://github.com/Jostar-Foundation/CodeRaider" target="_blank"><strong>CodeRaider -</strong> AI-powered code reviewer and code fixer.</a><br>
+4] <a href="https://github.com/Jostar-Foundation/Bashfolio" target="_blank"><strong>Bashfolio -</strong> Terminal website which appears like Bash UI.</a><br>
 
 
 ---
